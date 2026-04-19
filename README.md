@@ -1,5 +1,6 @@
 # DevicesWiki
 ![Banner](readme_assets/banner.png)
+---
 A Wiki of Motorola, Samsung, and other devices. Project still under development. 
 [Wiki](https://github.com/rebangkkuser/DevicesWiki/wiki)
 
